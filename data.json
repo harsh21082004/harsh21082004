@@ -1,0 +1,177 @@
+[
+  {
+    "reviewer_name": "Barbara",
+    "content": "We had a relaxing time ❤.\n\n[Positive]: The spa was excellent. We had a wonderful relaxing time! [Negative]: The food choices at the Rowe restaurant. Parking should be included in your stay because you pay a lot to stay here already.",
+    "raw_content": "We had a relaxing time ❤.\n\n[Positive]: The spa was excellent. We had a wonderful relaxing time! [Negative]: The food choices at the Rowe restaurant. Parking should be included in your stay because you pay a lot to stay here already.",
+    "date": "05 Dec 2023",
+    "rating_review_score": 10.0,
+    "out_of": 10.0,
+    "source_language": "en",
+    "source": {
+      "name": "booking.com",
+      "icon": "https://reviewmagic.innspire.com:8001/media/sources/booking3.png"
+    },
+    "analytics": [
+      {
+        "category": "spa",
+        "topic": "spa",
+        "phrases": ["spa", "spa"],
+        "sentences": ["The spa was excellent"],
+        "sentiment": "Positive",
+        "highlight_indices": [
+          [40, 61, "Positive"]
+        ]
+      },
+      {
+        "category": "facilities",
+        "topic": "facilities",
+        "phrases": ["parking", "parking"],
+        "sentences": ["Parking should be included in your stay because you pay a lot to stay here already"],
+        "sentiment": "Negative",
+        "highlight_indices": [
+          [155, 237, "Negative"]
+        ]
+      }
+    ]
+  },
+  {
+    "reviewer_name": "John",
+    "content": "Overall, it was a decent stay. \n\n[Positive]: The bed was very comfortable and the room was clean. [Negative]: The Wi-Fi was slow, and the breakfast options were limited.",
+    "raw_content": "Overall, it was a decent stay. \n\n[Positive]: The bed was very comfortable and the room was clean. [Negative]: The Wi-Fi was slow, and the breakfast options were limited.",
+    "date": "12 Nov 2023",
+    "rating_review_score": 7.5,
+    "out_of": 10.0,
+    "source_language": "en",
+    "source": {
+      "name": "tripadvisor.com",
+      "icon": "https://reviewmagic.innspire.com:8001/media/sources/tripadvisor.png"
+    },
+    "analytics": [
+      {
+        "category": "room",
+        "topic": "bed",
+        "phrases": ["bed", "room"],
+        "sentences": ["The bed was very comfortable and the room was clean"],
+        "sentiment": "Positive",
+        "highlight_indices": [
+          [40, 83, "Positive"]
+        ]
+      },
+      {
+        "category": "amenities",
+        "topic": "Wi-Fi",
+        "phrases": ["Wi-Fi", "breakfast"],
+        "sentences": ["The Wi-Fi was slow, and the breakfast options were limited"],
+        "sentiment": "Negative",
+        "highlight_indices": [
+          [115, 164, "Negative"]
+        ]
+      }
+    ]
+  },
+  {
+    "reviewer_name": "Alice",
+    "content": "Fantastic experience! \n\n[Positive]: The location was perfect, close to everything. The staff was friendly and helpful. [Neutral]: The decor was outdated but still charming.",
+    "raw_content": "Fantastic experience! \n\n[Positive]: The location was perfect, close to everything. The staff was friendly and helpful. [Neutral]: The decor was outdated but still charming.",
+    "date": "20 Oct 2023",
+    "rating_review_score": 9.0,
+    "out_of": 10.0,
+    "source_language": "en",
+    "source": {
+      "name": "yelp.com",
+      "icon": "https://reviewmagic.innspire.com:8001/media/sources/yelp.png"
+    },
+    "analytics": [
+      {
+        "category": "location",
+        "topic": "location",
+        "phrases": ["location", "staff"],
+        "sentences": ["The location was perfect, close to everything. The staff was friendly and helpful"],
+        "sentiment": "Positive",
+        "highlight_indices": [
+          [30, 83, "Positive"]
+        ]
+      },
+      {
+        "category": "decor",
+        "topic": "decor",
+        "phrases": ["decor"],
+        "sentences": ["The decor was outdated but still charming"],
+        "sentiment": "Neutral",
+        "highlight_indices": [
+          [112, 146, "Neutral"]
+        ]
+      }
+    ]
+  },
+  {
+    "reviewer_name": "Michael",
+    "content": "Good value for money. \n\n[Positive]: The price was reasonable. [Mixed]: The room was fine, but the bathroom could have been cleaner.",
+    "raw_content": "Good value for money. \n\n[Positive]: The price was reasonable. [Mixed]: The room was fine, but the bathroom could have been cleaner.",
+    "date": "01 Sep 2023",
+    "rating_review_score": 8.0,
+    "out_of": 10.0,
+    "source_language": "en",
+    "source": {
+      "name": "expedia.com",
+      "icon": "https://reviewmagic.innspire.com:8001/media/sources/expedia.png"
+    },
+    "analytics": [
+      {
+        "category": "price",
+        "topic": "price",
+        "phrases": ["price"],
+        "sentences": ["The price was reasonable"],
+        "sentiment": "Positive",
+        "highlight_indices": [
+          [30, 52, "Positive"]
+        ]
+      },
+      {
+        "category": "cleanliness",
+        "topic": "bathroom",
+        "phrases": ["room", "bathroom"],
+        "sentences": ["The room was fine, but the bathroom could have been cleaner"],
+        "sentiment": "Mixed",
+        "highlight_indices": [
+          [67, 120, "Mixed"]
+        ]
+      }
+    ]
+  },
+  {
+    "reviewer_name": "Sarah",
+    "content": "Not bad, but could be better. \n\n[Positive]: The check-in process was smooth. [Negative]: The noise from the street was disturbing at night.",
+    "raw_content": "Not bad, but could be better. \n\n[Positive]: The check-in process was smooth. [Negative]: The noise from the street was disturbing at night.",
+    "date": "15 Aug 2023",
+    "rating_review_score": 6.5,
+    "out_of": 10.0,
+    "source_language": "en",
+    "source": {
+      "name": "google.com",
+      "icon": "https://reviewmagic.innspire.com:8001/media/sources/google.png"
+    },
+    "analytics": [
+      {
+        "category": "service",
+        "topic": "check-in",
+        "phrases": ["check-in"],
+        "sentences": ["The check-in process was smooth"],
+        "sentiment": "Positive",
+        "highlight_indices": [
+          [33, 63, "Positive"]
+        ]
+      },
+      {
+        "category": "noise",
+        "topic": "noise",
+        "phrases": ["noise", "street"],
+        "sentences": ["The noise from the street was disturbing at night"],
+        "sentiment": "Negative",
+        "highlight_indices": [
+          [80, 124, "Negative"]
+        ]
+      }
+    ]
+  }
+        ]
