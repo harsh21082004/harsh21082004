@@ -54,7 +54,7 @@
         "sentences": ["The bed was very comfortable and the room was clean"],
         "sentiment": "Positive",
         "highlight_indices": [
-          [40, 83, "Positive"]
+          [42, 83, "Positive"]
         ]
       },
       {
@@ -89,7 +89,7 @@
         "sentences": ["The location was perfect, close to everything. The staff was friendly and helpful"],
         "sentiment": "Positive",
         "highlight_indices": [
-          [30, 83, "Positive"]
+          [27, 83, "Positive"]
         ]
       },
       {
@@ -174,4 +174,4 @@
       }
     ]
   }
-        ]
+]
